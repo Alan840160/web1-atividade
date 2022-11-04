@@ -13,7 +13,7 @@ const nav = /*html*/ `
       <ul role="listbox">
         <!-- Sub Menu-->
         <li><a class="primary" href="./login.html">Formulário de Acesso</a></li> <!-- Item do submenu-->
-        <li><a class="primary" href="./lista-tarefas.html">Lista de exercícios</a></li> <!-- Item do submenu-->
+        <li><a class="primary" href="./lista-tarefa.html">Lista de exercícios</a></li> <!-- Item do submenu-->
       </ul>
       <!-- fim do Sub Menu-->
     </details>
