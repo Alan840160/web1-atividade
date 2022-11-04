@@ -12,3 +12,9 @@ botaoEnviar.addEventListener('click',function(){
     
     listaTarefa.appendChild(li)
 });
+listaTarefa.addEventListener('click',function(event){
+    if(event.target.className==='btn-excluir'){
+        let tarefa = (event.target).parentNode
+        listaTarefa.removeChild(tarefa)
+    }
+})
