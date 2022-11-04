@@ -1,2 +1,1 @@
-import  ' ./nav.js'
-
+import  './nav.js'
